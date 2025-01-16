@@ -103,6 +103,9 @@
     "block.tconstruct.skyroot_wall_hanging_sign": "하늘뿌리나무 매다는 표지판",
     "block.tconstruct.bloodshroom_hanging_sign":   "핏빛 균 매다는 표지판",
     "block.tconstruct.bloodshroom_wall_hanging_sign": "핏빛 균 매다는 표지판",
+	
+	"block.tconstruct.blazewood_fence": "블레이즈나무 울타리",
+	"item.tconstruct.venombone": "맹독 뼈",
 
     "material.tconstruct.chorus.armor": "레벨당 25% 확률로 공격자를 무작위로 순간이동시킵니다.",
 
