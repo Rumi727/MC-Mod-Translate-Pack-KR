@@ -257,5 +257,12 @@
     "pattern.tconstruct.helmet_plating": "투구 판",
     "pattern.tconstruct.chestplate_plating": "흉갑 판",
     "pattern.tconstruct.leggings_plating": "레깅스 판",
-    "pattern.tconstruct.boots_plating": "부츠 판"
+    "pattern.tconstruct.boots_plating": "부츠 판",
+	
+	"effect.tconstruct.pierce": "관통당함",
+	"effect.tconstruct.momentum_harvest": "가속도",
+	"effect.tconstruct.momentum_armor": "반복적",
+	"effect.tconstruct.insatiable_melee": "갈망",
+	"effect.tconstruct.insatiable_ranged": "갈망",
+	"effect.tconstruct.insatiable_armor": "운동성"
 }
