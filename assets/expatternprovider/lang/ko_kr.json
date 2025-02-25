@@ -1,5 +1,5 @@
 {
-  "itemGroup.epp": "Extended AE2",
+  "itemGroup.epp": "ExtendedAE",
   "block.expatternprovider.ex_pattern_provider": "ME 확장된 패턴 공급기",
   "block.expatternprovider.ex_interface": "ME 확장된 인터페이스",
   "block.expatternprovider.wireless_connect": "ME 무선 연결기",
@@ -14,11 +14,12 @@
   "block.expatternprovider.crystal_fixer": "수정 수리기",
   "block.expatternprovider.ex_emc_interface": "ME 확장된 변환 인터페이스",
   "block.expatternprovider.oversize_interface": "ME 큰 인터페이스",
-  "block.expatternprovider.assembler_matrix_frame": "조합기 매트릭스 틀",
+  "block.expatternprovider.assembler_matrix_frame": "조합기 매트릭스 프레임",
   "block.expatternprovider.assembler_matrix_wall": "조합기 매트릭스 벽",
   "block.expatternprovider.assembler_matrix_pattern": "조합기 매트릭스 패턴 코어",
   "block.expatternprovider.assembler_matrix_crafter": "조합기 매트릭스 조합 코어",
   "block.expatternprovider.assembler_matrix_speed": "조합기 매트릭스 가속 코어",
+  "block.expatternprovider.assembler_matrix_glass": "조합기 매트릭스 유리",
   "block.expatternprovider.circuit_cutter": "회로 절단기",
   "block.expatternprovider.silicon_block": "실리콘 블록",
   "item.expatternprovider.ex_pattern_provider_part": "ME 확장된 패턴 공급기",
@@ -169,5 +170,5 @@
   "config.jade.plugin_expatternprovider.jade_chamber": "ME 수정 수정기",
   "config.jade.plugin_expatternprovider.jade_wireless": "ME 무선 연결기 색",
   "key.epp.viewpattern": "패턴 보기",
-  "key.epp.category": "확장된 AE"
+  "key.epp.category": "ExtendedAE"
 }
