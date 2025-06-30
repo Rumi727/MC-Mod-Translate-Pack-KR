@@ -75,7 +75,7 @@
     "wireless.use.tooltip.01": "클릭해 연동",
     "wireless.use.tooltip.02": "다른 장치를 선택해 연결",
     "wireless.tooltip": "X: %s, Y: %s, Z: %s에 있는 연결기에 연동",
-    "패턴.tooltip": "[%s]를 눌러 패턴 보기",
+    "pattern.tooltip": "[%s]를 눌러 패턴 보기",
     "gui.extendedae.ex_pattern_provider": "ME 확장된 패턴 공급기",
     "gui.extendedae.ex_interface": "ME 확장된 인터페이스",
     "gui.extendedae.ex_interface.config": "구성 %s페이지",
