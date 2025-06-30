@@ -381,7 +381,7 @@
   "item.createcasing.chorium_ingot": "코륨 주괴",
   "item.createcasing.processing_chorium": "가공중인 코륨 주괴",
   "createcasing.ponder.tag.encased_blocks": "Create : Encased",
-  "createcasing.ponder.tag.encased_blocks.description": "Create 케이스를 씌운에서 추가한 장치입니다.",
+  "createcasing.ponder.tag.encased_blocks.description": "Create : Encased에서 추가한 장치입니다.",
   "createcasing.ponder.gearbox.header": "기어박스를 이용해 동력 전달하기",
   "createcasing.ponder.gearbox.text_1": "회전축을 변경하는 일은 보통 큰 일이 아닙니다.",
   "createcasing.ponder.gearbox.text_2": "기어박스는 그런 일을 작게 해결해줍니다.",
@@ -405,9 +405,9 @@
   "createcasing.ponder.creative_cogwheel.header": "크리에이티브 톱니바퀴를 이용해 동력 생산하기",
   "createcasing.ponder.creative_cogwheel.text_1": "크리에이티브 톱니바퀴는 동력을 쉽게 생산하고 조절합니다.",
   "createcasing.ponder.creative_cogwheel.text_2": "회전 속도는 입력 패널에서 구성할 수 있습니다.",
-  "createcasing.ponder.depot.header": "Using 아이템 거치대s",
-  "createcasing.ponder.depot.text_1": "아이템 거치대s can serve as 'stationary' belt elements",
-  "createcasing.ponder.depot.text_2": "Right-Click to manually place or remove Items from it",
-  "createcasing.ponder.depot.text_3": "Just like Mechanical Belts, it can provide items to processing",
-  "createcasing.ponder.depot.text_4": "...as well as provide Items to Mechanical Arms"
+  "createcasing.ponder.depot.header": "아이템 거치대 사용하기",
+  "createcasing.ponder.depot.text_1": "아이템 거치대는 고정된 벨트 역할입니다.",
+  "createcasing.ponder.depot.text_2": "우클릭해서 아이템을 놓거나 가져갑니다.",
+  "createcasing.ponder.depot.text_3": "벨트처럼, 놓여진 아이템은 가공될 수 있습니다.",
+  "createcasing.ponder.depot.text_4": "그리고 기계 팔의 목표가 될 수 있습니다."
 }
