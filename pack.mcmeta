@@ -1,7 +1,8 @@
 {
     "pack":
     {
-        "pack_format": 34,
+        "min_format": 65,
+        "max_format": 100,
         "description": "여러 모드들을 번역하는 리소스팩"
     }
 }
